@@ -1,0 +1,14 @@
+{
+  "name": "com.pixelwizards.character-tools",
+  "displayName": "Pixel Wizards - Character Tools",
+  "version": "0.1.0-preview.2",
+  "unity": "2018.4",
+  "description": "Character tools",
+  "author": {
+    "name": "Pixel Wizards",
+    "email": "support@gamedev.ca",
+    "url": "http://www.gamedev.ca"
+  },
+  "keywords": [],
+  "dependencies": {}
+}
