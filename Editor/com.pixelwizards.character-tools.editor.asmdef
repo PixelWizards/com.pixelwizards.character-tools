@@ -1,0 +1,17 @@
+{
+    "name": "com.pixelwizards.character-tools.editor",
+    "references": [
+        "GUID:dfa1ed0ed62976942ae3a524c4259d62"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
